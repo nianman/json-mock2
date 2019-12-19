@@ -15,7 +15,7 @@
       "date": "2019-12-15"
     },
     {
-      "id": 1,
+      "id": 2,
       "category": "men",
       "fit": "slim",
       "brand": "levis",
@@ -29,7 +29,7 @@
       "date": "2019-12-15"
     },
     {
-      "id": 1,
+      "id": 3,
       "category": "women",
       "fit": "skinny",
       "brand": "regular",
@@ -43,7 +43,7 @@
       "date": "2019-12-15"
     },
     {
-      "id": 1,
+      "id": 4,
       "category": "men",
       "fit": "regular",
       "brand": "lee",
@@ -57,9 +57,9 @@
       "date": "2019-12-15"
     },
     {
-      "id": 1,
+      "id": 5,
       "category": "women",
-      "fit": "skinny",
+      "fit": "fat",
       "brand": "buffalo",
       "description": "a superb pair of jeans",
       "price": 200,
@@ -71,9 +71,9 @@
       "date": "2019-12-15"
     },
     {
-      "id": 1,
+      "id": 6,
       "category": "women",
-      "fit": "skinny",
+      "fit": "slim",
       "brand": "buffalo",
       "description": "a superb pair of jeans",
       "price": 200,
@@ -85,18 +85,60 @@
       "date": "2019-12-15"
     },
     {
-      "id": 1,
+      "id": 7,
       "category": "women",
-      "fit": "skinny",
+      "fit": "fit",
       "brand": "buffalo",
       "description": "a superb pair of jeans",
-      "price": 200,
+      "price": 500,
       "color": "black",
       "size": "28",
       "images": [
         "https://previews.123rf.com/images/flippo/flippo0907/flippo090700238/5230468-a-pair-of-old-blue-denim-jeans-on-a-white-background-clothing-background.jpg"
       ],
       "date": "2019-12-15"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "men"
+    },
+    {
+      "id": 2,
+      "category": "women"
+    },
+    {
+      "id": 3,
+      "category": "fit"
+    },
+    {
+      "id": 4,
+      "category": "slim"
+    },
+    {
+      "id": 5,
+      "category": "skinny"
+    },
+    {
+      "id": 6,
+      "category": "white"
+    },
+    {
+      "id": 7,
+      "category": "black"
+    },
+    {
+      "id": 8,
+      "category": "white"
+    },
+    {
+      "id": 9,
+      "category": "green"
+    },
+    {
+      "id": 10,
+      "category": "red"
     }
   ]
 }
