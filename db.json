@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "women",
+      "fit": "skinny",
+      "brand": "buffalo",
+      "description": "a superb pair of jeans",
+      "price": 200,
+      "color": "black",
+      "size": "28",
+      "images": [
+        "img/products/women/skinny/001.png"
+      ],
+      "date": "2019-12-15"
+    },
+    {
+      "id": 1,
+      "category": "men",
+      "fit": "slim",
+      "brand": "levis",
+      "description": "a superb pair of jeans",
+      "price": 200,
+      "color": "black",
+      "size": "28",
+      "images": [
+        "img/products/women/skinny/001.png"
+      ],
+      "date": "2019-12-15"
+    },
+    {
+      "id": 1,
+      "category": "women",
+      "fit": "skinny",
+      "brand": "regular",
+      "description": "a superb pair of jeans",
+      "price": 400,
+      "color": "white",
+      "size": "50",
+      "images": [
+        "img/products/women/skinny/001.png"
+      ],
+      "date": "2019-12-15"
+    },
+    {
+      "id": 1,
+      "category": "men",
+      "fit": "regular",
+      "brand": "lee",
+      "description": "a superb pair of jeans",
+      "price": 510,
+      "color": "green",
+      "size": "28",
+      "images": [
+        "img/products/women/skinny/001.png"
+      ],
+      "date": "2019-12-15"
+    },
+    {
+      "id": 1,
+      "category": "women",
+      "fit": "skinny",
+      "brand": "buffalo",
+      "description": "a superb pair of jeans",
+      "price": 200,
+      "color": "black",
+      "size": "28",
+      "images": [
+        "img/products/women/skinny/001.png"
+      ],
+      "date": "2019-12-15"
+    },
+    {
+      "id": 1,
+      "category": "women",
+      "fit": "skinny",
+      "brand": "buffalo",
+      "description": "a superb pair of jeans",
+      "price": 200,
+      "color": "black",
+      "size": "28",
+      "images": [
+        "img/products/women/skinny/001.png"
+      ],
+      "date": "2019-12-15"
+    },
+    {
+      "id": 1,
+      "category": "women",
+      "fit": "skinny",
+      "brand": "buffalo",
+      "description": "a superb pair of jeans",
+      "price": 200,
+      "color": "black",
+      "size": "28",
+      "images": [
+        "img/products/women/skinny/001.png"
+      ],
+      "date": "2019-12-15"
+    }
+  ]
+}
