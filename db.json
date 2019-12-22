@@ -2,43 +2,43 @@
   "products": [
     {
       "id": 1,
-      "category": "women",
-      "fit": "skinny",
-      "brand": "buffalo",
+      "category": "men",
+      "fit": "slim",
+      "brand": "lee",
       "description": "a superb pair of jeans",
       "price": 200,
       "color": "black",
       "size": "28",
       "images": [
-        "https://previews.123rf.com/images/flippo/flippo0907/flippo090700238/5230468-a-pair-of-old-blue-denim-jeans-on-a-white-background-clothing-background.jpg"
+        "https://images.lee.com/is/image/Lee/2013250-HERO?$544x544$"
       ],
       "date": "2019-12-15"
     },
     {
       "id": 2,
-      "category": "men",
-      "fit": "slim",
+      "category": "female",
+      "fit": "skinny",
       "brand": "levis",
       "description": "a superb pair of jeans",
-      "price": 200,
+      "price": 399,
       "color": "black",
       "size": "28",
       "images": [
-        "https://previews.123rf.com/images/flippo/flippo0907/flippo090700238/5230468-a-pair-of-old-blue-denim-jeans-on-a-white-background-clothing-background.jpg"
+        "https://lsco.scene7.com/is/image/lsco/levis/clothing/188810208-front-pdp.jpg?$grid_desktop_bottoms$"
       ],
       "date": "2019-12-15"
     },
     {
       "id": 3,
       "category": "women",
-      "fit": "skinny",
-      "brand": "regular",
+      "fit": "fit",
+      "brand": "bufallo",
       "description": "a superb pair of jeans",
       "price": 400,
       "color": "white",
       "size": "50",
       "images": [
-        "https://previews.123rf.com/images/flippo/flippo0907/flippo090700238/5230468-a-pair-of-old-blue-denim-jeans-on-a-white-background-clothing-background.jpg"
+        "https://images-na.ssl-images-amazon.com/images/I/51vkdppfsxL._UX679_.jpg"
       ],
       "date": "2019-12-15"
     },
@@ -52,7 +52,7 @@
       "color": "green",
       "size": "28",
       "images": [
-        "https://previews.123rf.com/images/flippo/flippo0907/flippo090700238/5230468-a-pair-of-old-blue-denim-jeans-on-a-white-background-clothing-background.jpg"
+        "https://d2ul0w83gls0j4.cloudfront.net/products/41/600/412692.jpg"
       ],
       "date": "2019-12-15"
     },
@@ -128,10 +128,7 @@
       "id": 7,
       "category": "black"
     },
-    {
-      "id": 8,
-      "category": "white"
-    },
+   
     {
       "id": 9,
       "category": "green"
